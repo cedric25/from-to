@@ -1,0 +1,1 @@
+A simple utility to transfer all values from an object to another regardless of their different structures
